@@ -1,0 +1,6 @@
+{
+  "name": "학급 출석부 랜덤 뽑기",
+  "description": "학생 이름을 손으로 입력하거나 출석부 사진을 올려 AI로 자동 인식하고, 재미있고 역동적인 연출로 발표자를 무작위 선정해 주는 친절한 교실용 도구입니다.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
